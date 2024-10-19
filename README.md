@@ -2,9 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小王同学祝您今天愉快!&center=true&size=27" />
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
@@ -17,19 +15,6 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <!-- <a href="https://twitter.com/Dandelion-Dreams/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@Dandelion-Dreams"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp; -->
-    <!-- <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp; -->
-    <!-- visitor -->
-    <!-- <img src="https://komarev.com/ghpvc/?username=Dandelion-Dreams&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp; -->
-    <!-- wakatime -->    
-    <!-- <a href="https://wakatime.com/@Dandelion-Dreams"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a> -->
-
-  </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
@@ -54,51 +39,6 @@
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
-<!-- ### 🏢 Work Experience -->
-
-<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/assets/images/yuanze.png" />
-
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— 2024-08-28
-
-  - 工作岗位：软件研发工程师
-  - 工作内容：感受创业
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/assets/images/tuhui.png" />
-
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
-
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：一些杂活
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/assets/images/nio.png" />
-
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
-
-  - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
-
-</td></tr>
-
-<tr><td> -->
-
-<!-- ### 📃 Recent Blog -->
-
-<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/assets/images/astronaut.png" /> -->
-
-<!-- START_SECTION:blog -->
-<!-- * <a href='https://blog.sunguoqi.com/posts/2021/' target='_blank'>2021 年终总结 && 关于我自学爬虫的点滴经历</a> - 2021-12-31
-* <a href='https://blog.sunguoqi.com/posts/2022/' target='_blank'>再见，2022！你好，2023！</a> - 2023-01-26
-* <a href='https://blog.sunguoqi.com/posts/2023/' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
-* <a href='https://blog.sunguoqi.com/posts/21/' target='_blank'>人生 21 岁，版本更新日志</a> - 2021-02-25
-* <a href='https://blog.sunguoqi.com/posts/22/' target='_blank'>奔跑在自己的时区里，你好哇，我的 22 岁！</a> - 2023-02-25 -->
-<!-- END_SECTION:blog -->
-
-<!-- </td></tr> -->
-
-<!-- <tr><td> -->
-
-
 
 </table>
 
@@ -131,8 +71,6 @@
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/assets/images/cxyduck.gif" />
 
 
 
@@ -146,9 +84,6 @@
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-  
-<!-- GitHub 奖杯🏆 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=Dandelion-Dreams&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dandelion-Dreams&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -197,7 +132,6 @@
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
