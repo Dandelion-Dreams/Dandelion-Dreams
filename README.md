@@ -55,7 +55,7 @@
 
 
 
-<!-- gif -->
+<!-- gif
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/assets/images/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/assets/images/cssgif.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/assets/images/vscode.webp">
@@ -63,6 +63,6 @@
 <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/assets/images/vue.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Dandelion-Dreams/Dandelion-Dreams/assets/images/github.webp"> -->
 
 </div>
